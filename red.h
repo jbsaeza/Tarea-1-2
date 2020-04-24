@@ -14,6 +14,11 @@ char palabras3[50];
 char palabras4[50];
 char palabras5[50];
 char palabras6[50];
+int h;
+int a1;
+int a2;
+int a3;
+int a4;
 
 
 struct node *nodes;
