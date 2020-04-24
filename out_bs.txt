@@ -1,0 +1,5 @@
+BubbleSort 
+7 11 1 4 13 0 2 5 9 10 3 8 12 6 
+comparaciones: 143 
+asignaciones: 78 
+

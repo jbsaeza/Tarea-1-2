@@ -1,0 +1,5 @@
+InsertionSort 
+0 0 0 0 0 0 0 0 0 0 0 0 5 5 
+comparaciones: 153 
+asignaciones: 140 
+
